@@ -37,3 +37,7 @@
     MongoDB installed locally or access to MongoDB Atlas
 
     Gradle installed
+
+## Swagger UI
+
+    http://localhost:9292/swagger-ui/index.html#/
